@@ -1,6 +1,6 @@
 # finalProjectS2026
 
-One of the cool things about markdown is the native list support
+Some examples of cool things you can do in markdown.
 
 - It supports lists
 - These lists are readable here
