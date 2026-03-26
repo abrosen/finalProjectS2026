@@ -1,6 +1,6 @@
 # finalProjectS2026
 
-Some cool markdown stuff.
+Some examples of cool things you can do in markdown.
 
 - It supports lists
 - These lists are readable here
